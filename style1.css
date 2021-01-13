@@ -1,0 +1,29 @@
+body{
+    background:#fff;
+    font-weight:700;
+}
+p{
+    color: hsl(235, 19%, 35%);
+}
+div, input, .design{
+    background: hsl(0, 0%, 95%);
+    color:hsl(235, 19%, 35%);
+}
+.attribution{
+    color:#000;
+}
+.todoFrame{
+    box-shadow:5px 5px 5px hsla(236, 33%, 85%, 1);
+}
+.design{
+    border-bottom:.5px solid hsl(233, 11%, 84%);
+}
+.circle{
+    border:.5px solid hsl(233, 11%, 84%);
+}
+.circle:hover{
+    border:.5px solid hsl(220, 98%, 61%);
+}
+.date{
+    color:#000;
+}
